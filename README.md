@@ -33,7 +33,7 @@ It's helpful to bring the following
 - a timer for when you're observing someone write code.
 - a set of process cards.
 
-## Individual review
+#### Individual review
 
 1. Reflect on your process - decide what part of your process you want to focus on.
 2. Find a small exercise, or kata to practice it. (Start really small and simple and then extend from there)
