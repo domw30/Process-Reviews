@@ -36,12 +36,12 @@ describe Scrabble do
       expect(scrabble.score).to eq 6
     end
 
-    it 'returns 6 from string street' do
+    it 'returns 22 from string street' do
       scrabble = Scrabble.new('quirky')
       expect(scrabble.score).to eq 22
     end
 
-    it 'returns 6 from string street' do
+    it 'returns 41 from string street' do
       scrabble = Scrabble.new('OXYPHENBUTAZONE')
       expect(scrabble.score).to eq 41
     end
